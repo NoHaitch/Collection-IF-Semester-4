@@ -1,0 +1,13 @@
+stages:
+  - test
+
+unit-test:
+  stage: test
+  image: python:3.12
+  script:
+    - C:/"Program Files"/Python312/python.exe -m pip install -r requirement.txt
+    - C:/"Program Files"/Python312/python.exe -m pytest --cov-report=html --cov=src
+  artifacts:
+    paths:
+      - htmlcov
+    expire_in: 30days
