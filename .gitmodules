@@ -1,0 +1,15 @@
+[submodule "OOP_2024"]
+	path = OOP_2024
+	url = https://github.com/NoHaitch/OOP_2024
+[submodule "Basdat_2024"]
+	path = Basdat_2024
+	url = https://github.com/NoHaitch/Basdat_2024
+[submodule "Stima_2024"]
+	path = Stima_2024
+	url = https://github.com/NoHaitch/Stima_2024
+[submodule "Probstat_2024/Tubes_Probstat"]
+	path = Probstat_2024/Tubes_Probstat
+	url = https://github.com/NoHaitch/Tubes_Probstat
+[submodule "OS_2024/Tubes-IF2230-OS-GyattBelajar"]
+	path = OS_2024/Tubes-IF2230-OS-GyattBelajar
+	url = https://github.com/NoHaitch/Tubes-IF2230-OS-GyattBelajar
